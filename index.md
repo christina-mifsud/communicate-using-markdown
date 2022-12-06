@@ -8,3 +8,6 @@
 $ git init
 Learning to use Github
 ```
+- [ ] Make a list
+- [ ] Check preview
+- [ ] Commit
